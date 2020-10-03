@@ -1,0 +1,6 @@
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+c:\users\arnali\documents\visual studio 2013\Projects\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
